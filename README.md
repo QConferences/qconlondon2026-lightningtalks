@@ -23,9 +23,9 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 
 **Tuesday, March 17**
-- 11:30 - 11:35 am: [Available slot]
-- 3:40 - 3:45 pm: [Available slot]
+- 11:30 - 11:35 am: [Available slot - Add your topic - Your name & LinkedIn link]
+- 3:40 - 3:45 pm: [Available slot - Add your topic - Your name & LinkedIn link]
 
 **Wednesday, March 18**
-- 11:30 - 11:35 am: [Available slot]
-- 2:30 - 2:35 pm: [Available slot]
+- 11:30 - 11:35 am: [Available slot - Add your topic - Your name & LinkedIn link]
+- 2:30 - 2:35 pm: [Available slot - Add your topic - Your name & LinkedIn link]
