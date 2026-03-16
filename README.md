@@ -24,7 +24,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 **Tuesday, March 17**
 - 11:30 - 11:35 am: Designing for Failure and Speed in Agentic AI Workflows with FeatureOps - [Alex Casalboni](https://www.linkedin.com/in/alexcasalboni/)
-- 3:40 - 3:45 pm: [Available slot - Add your topic - Your name & LinkedIn link]
+- 3:40 - 3:45 pm: Vibe coding for performance, a walk through my claude files, skills and prompts [Ben Gamble](https://www.linkedin.com/in/bengamble7)
 
 **Wednesday, March 18**
 - 11:30 - 11:35 am: Finding people and connections in 2.3 million Epstein files - [Philip McMahon](https://www.linkedin.com/in/philipmcmahon/)
